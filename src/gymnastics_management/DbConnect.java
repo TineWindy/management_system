@@ -33,6 +33,7 @@ public class DbConnect
         catch (Exception e)
         {
             e.printStackTrace();
+            //XIUGAI
         }
 
         return  conn;
