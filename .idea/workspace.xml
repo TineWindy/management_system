@@ -40,10 +40,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DbConnect.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DbConnect.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gymnastics_management/DbConnect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
+            <state relative-caret-position="510">
               <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -52,10 +52,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginIn.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginIn.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gymnastics_management/LoginIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
+            <state relative-caret-position="543">
               <caret line="66" column="17" lean-forward="true" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -433,7 +433,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21572000" />
+    <option name="totallyTimeSpent" value="21585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -573,14 +573,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/gymnastics_management/LoginIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
+        <state relative-caret-position="798">
           <caret line="66" column="17" lean-forward="true" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1527607427642" expanded="true" signature="2816:2856" ph="SELECT * fro... team" />
             <marker date="1527607427642" expanded="true" signature="2894:2954" ph="SELECT * fro... team" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/RegisterFrame.java" />
+    <entry file="das://table:/93d7ba5a/2fbd83f8-0635-4549-8a54-7f94015b6632/db_gymnastics management.teams">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2fbd83f8-0635-4549-8a54-7f94015b6632/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/RegisterFrame.java" />
+    <entry file="file://$PROJECT_DIR$/../ChessProblem/src/My/TraversalOfMouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="227" column="59" lean-forward="false" selection-start-line="227" selection-start-column="46" selection-end-line="227" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebBrowser/src/Browser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2487">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gymnastics_management/SignUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gymnastics_management/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="72" column="10" lean-forward="false" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1527607880781" expanded="true" signature="2618:2648" ph="SELECT Team_... team" />
+            <marker date="1527607880781" expanded="true" signature="3244:3300" ph="insert into team... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gymnastics_management/LoginIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="66" column="17" lean-forward="true" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1527607427642" expanded="true" signature="2816:2856" ph="SELECT * fro... team" />
+            <marker date="1527607427642" expanded="true" signature="2894:2954" ph="SELECT * fro... team" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gymnastics_management/DbConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
